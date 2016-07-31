@@ -71,6 +71,7 @@ html,body {
 #header {
 	background-image: url("https://img1.etsystatic.com/026/0/5876298/il_340x270.589554163_qc96.jpg");
 	height: 90px;
+	text-shadow: 0 0 30px #fff;
 	
 
 }
