@@ -122,12 +122,11 @@ img {
 
 
 .content { 
-	margin:40px 0 0 230px;
+	margin:40px 40px 40px 270px;
 }
 
 .gallery {
 	margin-top: 40px;
-	margin-left: 230px;
 	display: block;
 	position: relative;
 	width:calc(100%-225px);
